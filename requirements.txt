@@ -1,0 +1,7 @@
+# requirements.txt
+pyrogram[tgcrypto]
+py-tgcalls
+yt-dlp
+# Optional (if adding lyrics support):
+lyricsgenius
+# Other dependencies as needed...
